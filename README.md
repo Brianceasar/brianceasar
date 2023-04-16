@@ -1,5 +1,5 @@
 # 💫 Hi There:
-🔭 I’m currently working on Mona Website <br>👯 I’m looking to collaborate on React and Python Projects<br>🌱 I’m currently learning Full stack web development<br>⚡ Fun fact "*I comment my code with emojis*"
+👯 I’m looking to collaborate on React and Python Projects<br>🌱 I’m currently learning Full stack web development<br>⚡ Fun fact "*I comment my code with emojis*"
 
 
 ## 🌐 Socials:
