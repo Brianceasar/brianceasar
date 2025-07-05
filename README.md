@@ -1,5 +1,9 @@
 # Hi There:
-I’m looking to collaborate on React and Python Projects<br>🌱 I’m currently learning Full stack web development
+- 🌍 Based in Tanzania  
+- 🎓 Computer Engineering graduate  
+- 🌱 Currently learning **Full Stack Web Development**  
+- 💻 Interested in collaborating on **React** and **Python** projects  
+- 🚀 Passionate about building scalable, user-friendly web applications
 
 
 # Tech Stack:
