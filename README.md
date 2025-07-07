@@ -1,9 +1,9 @@
 # Hi There:
-- 🌍 Based in Tanzania  
-- 🎓 Computer Engineering graduate  
-- 🌱 Currently learning **Full Stack Web Development**  
-- 💻 Interested in collaborating on **React** and **Python** projects  
-- 🚀 Passionate about building scalable, user-friendly web applications
+- Based in Tanzania  
+- Computer Engineering graduate  
+- Currently learning **Full Stack Web Development**  
+- Interested in collaborating on **React** and **Python** projects  
+- Passionate about building scalable, user-friendly web applications
 
 
 # Tech Stack:
