@@ -1,5 +1,5 @@
 # Hi There:
-- Based in Tanzania  
+- Based in Tanzania, Dar es salaam 
 - Computer Engineering graduate  
 - Currently learning **Full Stack Web Development**  
 - Interested in collaborating on **React** and **Python** projects  
