@@ -1,10 +1,10 @@
 # Hi, I'm Brian Ceasar 
 
-**Co-Founder & Director — CYREX Technologies**
+**Co-Founder & Director at CYREX Technologies**
 
 I’m a technology engineer based in Dar es Salaam, Tanzania, focused on building software, digital systems, and technology infrastructure that help organizations become more capable.
 
-At **CYREX Technologies**, I work across software engineering, digital transformation, AI, data, infrastructure, and systems design — with a particular interest in turning complex operational problems into practical technology.
+At **CYREX Technologies**, I work across software engineering, digital transformation, AI, data, infrastructure, and systems design with a particular interest in turning complex operational problems into practical technology.
 
 > **TURN COMPLEXITY INTO CAPABILITY.**
 
@@ -31,7 +31,7 @@ I’m currently building CYREX into a serious technology and digital transformat
 
 The work spans:
 
-**Software → Data → AI → Infrastructure → Digital Transformation**
+**Software. Data. AI. Infrastructure. Digital Transformation**
 
 The long-term goal is simple:
 
@@ -41,19 +41,19 @@ The long-term goal is simple:
 
 ## Selected Areas & Projects
 
-### 🏢 Business & Enterprise Systems
+### Business & Enterprise Systems
 Designing and developing systems that improve how organizations operate, manage information and make decisions.
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 Working on applied AI projects involving computer vision, audio classification, decision intelligence and intelligent automation.
 
-### 🐖 Livestock Intelligence Platform
+### Livestock Intelligence Platform
 Exploring offline-first technology for livestock producers, combining feed optimisation, genetic management, synchronization and decision intelligence.
 
-### 🌐 Digital Platforms
+### Digital Platforms
 Building modern web platforms and digital experiences using contemporary frontend and backend technologies.
 
-### ⚙️ Infrastructure & Deployment
+### Infrastructure & Deployment
 Working with Linux servers, hosting environments, application deployment, databases and production infrastructure.
 
 ---
