@@ -12,12 +12,12 @@ At **CYREX Technologies**, I work across software engineering, digital transform
 
 ## What I Work On
 
-- 🧠 **AI & Machine Learning** — applied AI, intelligent systems and decision-support tools
-- 💻 **Software Engineering** — scalable web applications and business systems
-- ⚙️ **Digital Transformation** — helping organizations move from fragmented processes to connected systems
-- 🗄️ **Data & Systems** — databases, information systems and operational intelligence
-- ☁️ **Infrastructure** — deployment, hosting, servers and technology platforms
-- 🎨 **Product & Experience** — building technology that is useful, understandable and practical
+- **AI & Machine Learning** — applied AI, intelligent systems and decision-support tools
+- **Software Engineering** — scalable web applications and business systems
+- **Digital Transformation** — helping organizations move from fragmented processes to connected systems
+- **Data & Systems** — databases, information systems and operational intelligence
+- **Infrastructure** — deployment, hosting, servers and technology platforms
+- **Product & Experience** — building technology that is useful, understandable and practical
 
 I’m particularly interested in technology that solves **real organizational and operational problems**, rather than technology for its own sake.
 
